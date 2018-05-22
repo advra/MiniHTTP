@@ -1,0 +1,15 @@
+C:\Users\adria\source\repos\simpleRESTClient\simpleRESTClient\bin\Debug\simpleRESTClient.exe.config
+C:\Users\adria\source\repos\simpleRESTClient\simpleRESTClient\bin\Debug\simpleRESTClient.exe
+C:\Users\adria\source\repos\simpleRESTClient\simpleRESTClient\bin\Debug\simpleRESTClient.pdb
+C:\Users\adria\source\repos\simpleRESTClient\simpleRESTClient\obj\Debug\simpleRESTClient.csprojResolveAssemblyReference.cache
+C:\Users\adria\source\repos\simpleRESTClient\simpleRESTClient\obj\Debug\MainWindow.g.cs
+C:\Users\adria\source\repos\simpleRESTClient\simpleRESTClient\obj\Debug\App.g.cs
+C:\Users\adria\source\repos\simpleRESTClient\simpleRESTClient\obj\Debug\simpleRESTClient_MarkupCompile.cache
+C:\Users\adria\source\repos\simpleRESTClient\simpleRESTClient\obj\Debug\simpleRESTClient_MarkupCompile.lref
+C:\Users\adria\source\repos\simpleRESTClient\simpleRESTClient\obj\Debug\MainWindow.baml
+C:\Users\adria\source\repos\simpleRESTClient\simpleRESTClient\obj\Debug\simpleRESTClient.g.resources
+C:\Users\adria\source\repos\simpleRESTClient\simpleRESTClient\obj\Debug\simpleRESTClient.Properties.Resources.resources
+C:\Users\adria\source\repos\simpleRESTClient\simpleRESTClient\obj\Debug\simpleRESTClient.csproj.GenerateResource.cache
+C:\Users\adria\source\repos\simpleRESTClient\simpleRESTClient\obj\Debug\simpleRESTClient.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\simpleRESTClient\simpleRESTClient\obj\Debug\simpleRESTClient.exe
+C:\Users\adria\source\repos\simpleRESTClient\simpleRESTClient\obj\Debug\simpleRESTClient.pdb
